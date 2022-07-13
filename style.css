@@ -1,0 +1,30 @@
+.buttontext{
+    color: darkgreen;
+    margin: 0px;
+    width: 100%;
+    box-shadow: lightgreen 5px 5px 5px ;
+    font-size: 40px;
+   }
+   
+   .spantext{
+    font-size:15px;
+    color: black;
+}
+
+  
+    canvas{
+       border-style: outset;
+       border-width: 10px;
+       border-color: greenyellow;
+    }
+
+    .copy_right_footer {
+        position: fixed;
+        color: green;
+        bottom: 0;
+        width: 90%;
+        background-color: lightgreen;
+        line-height: 3;
+        text-align: center;
+    }
+      
